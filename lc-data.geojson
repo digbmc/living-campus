@@ -1,2273 +1,2795 @@
 {
-   "type": "FeatureCollection",
-   "features": [
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312917,40.025603 ]
-    },
-    "properties": {
-    "donation_id":0,
-    "img_src":"",
-    "item":"Wildflower Meadow",
-    "donor_id":"Class of 1966",
-    "dedi_id":"Mary E. Daubenspeck '66",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313455,40.024166 ]
-    },
-    "properties": {
-    "donation_id":1,
-    "img_src":"LC_001.png",
-    "item":"Stone Gates",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"Gates given in honor of Anne Leigh Hobson Broughton '30, MA '36<br>Director of Admissions 1943-1965",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315949,40.028535 ]
-    },
-    "properties": {
-    "donation_id":2,
-    "img_src":"",
-    "item":"Shillingford Field",
-    "donor_id":"BMC",
-    "dedi_id":"",
-    "inscription":"Shillingford Field <br> Named in honor of Jenepher P. Shillingford for her contributions as field hockey coach and director of athletics and physical education for more than 20 years <br> October 25, 1998",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315949,40.030151 ]
-    },
-    "properties": {
-    "donation_id":3,
-    "img_src":"LC_003.png",
-    "item":"Shale-Limestone Block",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"Florence Bascom, PhD, Geology",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315027,40.026886 ]
-    },
-    "properties": {
-    "donation_id":4,
-    "img_src":"",
-    "item":"Sculpture",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314063,40.024677 ]
-    },
-    "properties": {
-    "donation_id":5,
-    "img_src":"LC_005.png",
-    "item":"Renovation of Sunken Garden",
-    "donor_id":"Class of 1996",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.316629,40.027586 ]
-    },
-    "properties": {
-    "donation_id":6,
-    "img_src":"LC_006.png",
-    "item":"Nancy Vickers Pond",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315325,40.027224 ]
-    },
-    "properties": {
-    "donation_id":7,
-    "img_src":"LC_007.png",
-    "item":"Owl Statue",
-    "donor_id":"Jacqueline Badger Mars '61",
-    "dedi_id":"",
-    "inscription":"Mezza Luna <br>Diana - Reuter - Twining <br> Gift Jacqueline Badger Mars 1961",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31494,40.029288 ]
-    },
-    "properties": {
-    "donation_id":8,
-    "img_src":"LC_008.png",
-    "item":"Moon Bench",
-    "donor_id":"Moon family cemetary plot",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1278
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":9,
-    "img_src":"",
-    "item":"McPherson Garden",
-    "donor_id":"The Staff Association",
-    "dedi_id":"",
-    "inscription":"Given by the Staff Association in honor of President Mary Patterson McPherson 1997",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31284,40.026537 ]
-    },
-    "properties": {
-    "donation_id":10,
-    "img_src":"",
-    "item":"Lion Pillars",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"McBride Gateway <br> In Memory of Katharine Elizabeth McBride<br> President of Bryn Mawr College 1942-1970",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314707,40.029389 ]
-    },
-    "properties": {
-    "donation_id":11,
-    "img_src":"",
-    "item":"Sculpture",
-    "donor_id":"Annick M. Doeff, PhD '77",
-    "dedi_id":"",
-    "inscription":"In Memoriam<br>Henriette Elisabeth Rollett nee Kleinsmeide Born 2-19-38, Sumatra, Indonesia <br> Interned 1942-45 During World War II on Java, Indonesia Died accidentally 8-6-1986 in Oisly, France together with her husband",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31509,40.027317 ]
-    },
-    "properties": {
-    "donation_id":12,
-    "img_src":"LC_012.png",
-    "item":"Fountain",
-    "donor_id":"Susan Alexander '78",
-    "dedi_id":"",
-    "inscription":"This fountain celebrates alumna and mother Joan S. Alexander's passion for water, thirst for knowledge, and love of family",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31496,40.030228 ]
-    },
-    "properties": {
-    "donation_id":13,
-    "img_src":"LC_013.png",
-    "item":"Large Rock",
-    "donor_id":"",
-    "dedi_id":"One Century of Bryn Mawr Geology 1895-1995",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315441,40.025929 ]
-    },
-    "properties": {
-    "donation_id":14,
-    "img_src":"",
-    "item":"Island",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"For James and Grace",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313604,40.026922 ]
-    },
-    "properties": {
-    "donation_id":15,
-    "img_src":"LC_015.png",
-    "item":"Garden, Bench, and Rock",
-    "donor_id":"Class of 1962",
-    "dedi_id":"",
-    "inscription":"Poetry Nook in Memory of Jane Hess Flanders, Class of 1962 <br> Poet Musician and Gardener",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1268
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312746,40.027065 ]
-    },
-    "properties": {
-    "donation_id":16,
-    "img_src":"LC_016.png",
-    "item":"Garden and Built-In Bench on Concrete",
-    "donor_id":"Class of 1934",
-    "dedi_id":"",
-    "inscription":"In Memory of Katharine Gribbel Carter, Class of 1934",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1270
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":17,
-    "img_src":"",
-    "item":"Garden and Bench",
-    "donor_id":"Class of 1987",
-    "dedi_id":"",
-    "inscription":"Catherine Martha Pugin",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314202,40.026853 ]
-    },
-    "properties": {
-    "donation_id":18,
-    "img_src":"LC_018.png",
-    "item":"Cloisters Fountain",
-    "donor_id":"Class of 1901",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313738,40.028846 ]
-    },
-    "properties": {
-    "donation_id":19,
-    "img_src":"LC_019.png",
-    "item":"Garden and Bench",
-    "donor_id":"Charlotte Drabkin Garrell '54 and Elizabeth Garrell Bacon '92",
-    "dedi_id":"Minnie Masion Drabkin",
-    "inscription":"Minnie Masion Drabkin Bench",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1276
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312281,40.027588 ]
-    },
-    "properties": {
-    "donation_id":20,
-    "img_src":"LC_020.png",
-    "item":"Concrete Bench",
-    "donor_id":"Class of 1897",
-    "dedi_id":"",
-    "inscription":"In Memoriam Elsie Campbell Sinclair Hodge, AB 1897 <br> Born Dec 15, 1874  Died in the Massacre of Christians at Paotingfu, China, June 1900",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1272
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315414,40.028352 ]
-    },
-    "properties": {
-    "donation_id":21,
-    "img_src":"LC_021.png",
-    "item":"Permanent Bench",
-    "donor_id":"Sally and Frank Mallory",
-    "dedi_id":"",
-    "inscription":"Julie E. Painter, AB 1959 / (1938-2004)",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1287
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.316277,40.028884 ]
-    },
-    "properties": {
-    "donation_id":22,
-    "img_src":"LC_022.png",
-    "item":"Permanent Bench",
-    "donor_id":"Class of 1964",
-    "dedi_id":"Class of 1964 40th Reunion",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1297
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315052,40.029164 ]
-    },
-    "properties": {
-    "donation_id":23,
-    "img_src":"LC_023.png",
-    "item":"Permanent Bench",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"For Thelma F. Shtasel, PhD '68 on Her 80th Birthday <br> \"Immortality lies not in the things you leave behind, but in the people your life has touched.\" With Love From Her Children and Their Families 4/20/04",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1285
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315115,40.028924 ]
-    },
-    "properties": {
-    "donation_id":24,
-    "img_src":"LC_024.png",
-    "item":"Permanent bench",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"In Loving Memory of Gayle Furtney Class of 1976",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1286
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":25,
-    "img_src":"",
-    "item":"Permanent Bench",
-    "donor_id":"Class of 1980",
-    "dedi_id":"Class of 1980",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31539,40.028353 ]
-    },
-    "properties": {
-    "donation_id":26,
-    "img_src":"LC_026.png",
-    "item":"Permanent Bench",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"In honor of Professor Machteld J. Mellink",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1289
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315368,40.028478 ]
-    },
-    "properties": {
-    "donation_id":27,
-    "img_src":"LC_027.png",
-    "item":"Moveable Bench",
-    "donor_id":"Class of 1926",
-    "dedi_id":"",
-    "inscription":"In Loving Memory of Alice Long Goldsmith, Class of 1926",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1288
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.318001,40.028935 ]
-    },
-    "properties": {
-    "donation_id":28,
-    "img_src":"LC_028.png",
-    "item":"Moveable Bench",
-    "donor_id":"",
-    "dedi_id":"Alice Long Goldsmith '26",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1295
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313869,40.027384 ]
-    },
-    "properties": {
-    "donation_id":29,
-    "img_src":"LC_029.png",
-    "item":"Moveable Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"",
-    "inscription":"Anne Leigh Hobson Broughton '30",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1245
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":30,
-    "img_src":"",
-    "item":"Moveable Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"",
-    "inscription":"Clarissa Wardwell Pell '30",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":31,
-    "img_src":"",
-    "item":"Moveable Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"",
-    "inscription":"In Honor of Ellen Fernon Reisner, MA '33 <br> Helen Taft Manning Award 1988",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315193,40.027174 ]
-    },
-    "properties": {
-    "donation_id":32,
-    "img_src":"LC_032.png",
-    "item":"Moveable Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"",
-    "inscription":"In Honor of Professor Mabel L. Lang <br> Helen Taft Manning Award 1988",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1239
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315147,40.029847 ]
-    },
-    "properties": {
-    "donation_id":33,
-    "img_src":"LC_033.png",
-    "item":"Moveable Bench",
-    "donor_id":"Clelia Wood Mallory '59, PhD '63",
-    "dedi_id":"",
-    "inscription":"Gift of Clelia Wood Mallory '59, PhD '63  in honor of  Edith H. Lanman, 1892-1992 <br> whose 43 years of devoted teaching inspired generations of chemistry students",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1280
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313861,40.024892 ]
-    },
-    "properties": {
-    "donation_id":34,
-    "img_src":"LC_034.png",
-    "item":"Moveable Bench",
-    "donor_id":"Class of 1960",
-    "dedi_id":"",
-    "inscription":"Presented in May 2010 by the Class of 1960 on the occasion of our 50th reunion <br> In memory of our classmates who have died since we last met under this Arbor in 2005",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1262
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313823,40.024834 ]
-    },
-    "properties": {
-    "donation_id":35,
-    "img_src":"LC_035.png",
-    "item":"Moveable Bench",
-    "donor_id":"Class of 1960",
-    "dedi_id":"",
-    "inscription":"Presented by the Class of 1960 on the occasion of our 40th Reunion",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1259
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31388,40.024824 ]
-    },
-    "properties": {
-    "donation_id":36,
-    "img_src":"LC_036.png",
-    "item":"Moveable Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"",
-    "inscription":"The Helen Taft Manning Award 2000 given to Barbara Janney Trimble '60 in recognition of her outstanding service to Bryn Mawr College",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1261
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313537,40.024427 ]
-    },
-    "properties": {
-    "donation_id":37,
-    "img_src":"LC_037.png",
-    "item":"Moveable Bench",
-    "donor_id":"Class of 1961",
-    "dedi_id":" 40th Reunion",
-    "inscription":"In Remembrance of Departed Classmates and in Celebration of Their Lives",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1265
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314139,40.02609 ]
-    },
-    "properties": {
-    "donation_id":38,
-    "img_src":"LC_038.png",
-    "item":"Moveable Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"",
-    "inscription":"Barbara Bauman Morrison '62 <br> Helen Taft Manning Award 2015",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1248
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315109,40.027113 ]
-    },
-    "properties": {
-    "donation_id":39,
-    "img_src":"LC_039.png",
-    "item":"Moveable Bench",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"In honor of Filiz Eda Burhan '72 <br> Respected scholar and beloved teacher",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1117
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313532,40.024344 ]
-    },
-    "properties": {
-    "donation_id":40,
-    "img_src":"LC_040.png",
-    "item":"Moveable Bench",
-    "donor_id":"Class of 1977",
-    "dedi_id":"25th Reunion",
-    "inscription":"Remembering deceased classmates and missing you at our 25th Reunion",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1266
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314836,40.026398 ]
-    },
-    "properties": {
-    "donation_id":41,
-    "img_src":"LC_041.png",
-    "item":"Moveable Bench",
-    "donor_id":"Donna & Robert Griffin and Karla's friends",
-    "dedi_id":"",
-    "inscription":"In Loving Memory of Karla A. Griffin '89, MA '93, Who Worked for the Dignity of Women and Children",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312847,40.02789 ]
-    },
-    "properties": {
-    "donation_id":42,
-    "img_src":"LC_042.png",
-    "item":"Moveable Bench",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"In Memory of Stefanie Newman '89",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1275
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314465,40.026033 ]
-    },
-    "properties": {
-    "donation_id":43,
-    "img_src":"LC_043.png",
-    "item":"Moveable Bench",
-    "donor_id":"Bey-Shan Chien Liu '98",
-    "dedi_id":"",
-    "inscription":"To my darling daughters Colette and Juliette, here is a place where you may take a moment to dream at a place that means the world to me.",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1247
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31293,40.025505 ]
-    },
-    "properties": {
-    "donation_id":44,
-    "img_src":"LC_044.png",
-    "item":"Moveable Bench",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"Estee Lauder Companies at Bryn Mawr College / Five Year Anniversary / June 2014 / In Honor of Lisa Zernicke and Nancy Cassano-George",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313703,40.024376 ]
-    },
-    "properties": {
-    "donation_id":45,
-    "img_src":"LC_045.png",
-    "item":"Moveable Bench",
-    "donor_id":"",
-    "dedi_id":"Sue \"The Glue\" Joceville 1955-2009",
-    "inscription":"Her courage, grace, kindness, and good humor will always inspire her friends and colleagues in the Gateway Building",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1267
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312904,40.028661 ]
-    },
-    "properties": {
-    "donation_id":46,
-    "img_src":"",
-    "item":"Moveable Bench",
-    "donor_id":"",
-    "dedi_id":"Steve Bennett 2012",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315072,40.030348 ]
-    },
-    "properties": {
-    "donation_id":47,
-    "img_src":"LC_047.png",
-    "item":"Moveable Bench",
-    "donor_id":"",
-    "dedi_id":"Ann Mullin Daudert",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1283
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313835,40.026753 ]
-    },
-    "properties": {
-    "donation_id":48,
-    "img_src":"LC_048.png",
-    "item":"Moveable Bench",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"In loving memory of Professor Alain Silvera (1930-2008) who loved to learn and teach, Bryn Mawr 1961-1997",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1246
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312523,40.027294 ]
-    },
-    "properties": {
-    "donation_id":49,
-    "img_src":"LC_049.png",
-    "item":"Moveable Bench",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"Bernie \"The Plant Man\" Wiener <br> Thanks for always making me feel young",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1273
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":50,
-    "img_src":"",
-    "item":"Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"",
-    "inscription":"Martha Stokes Price '47 <br> Helen Taft Manning Award 1995",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312266,40.02634 ]
-    },
-    "properties": {
-    "donation_id":51,
-    "img_src":"LC_051.png",
-    "item":"Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"",
-    "inscription":"Betsy Havens Watkins '61 <br> Helen Taft Manning Award 1997",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":52,
-    "img_src":"",
-    "item":"Bench",
-    "donor_id":"Carolyn Ehrlich Goldstein '60",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.316168,40.027152 ]
-    },
-    "properties": {
-    "donation_id":53,
-    "img_src":"LC_053.png",
-    "item":"Bench",
-    "donor_id":"Shirley Noble",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1293
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314915,40.30197 ]
-    },
-    "properties": {
-    "donation_id":54,
-    "img_src":"LC_054.png",
-    "item":"Bench",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"In memory of Ethel Walker Whitestone, Science Librarian",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1282
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31387,40.024854 ]
-    },
-    "properties": {
-    "donation_id":55,
-    "img_src":"LC_055.png",
-    "item":"Arbor",
-    "donor_id":"Class of 1960",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312201,40.025519 ]
-    },
-    "properties": {
-    "donation_id":56,
-    "img_src":"LC_056.png",
-    "item":"4 Permanent Benches and Garden",
-    "donor_id":"",
-    "dedi_id":"Barbara Thacher '40",
-    "inscription":"Barbara Auchincloss Thacher Memorial Path",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1298
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31419,40.027356 ]
-    },
-    "properties": {
-    "donation_id":57,
-    "img_src":"LC_057.png",
-    "item":"3 Stone Benches",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"Dedicated to Max Weiss, one who revered knowledge, nature, history, and those who appreciate their significance",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1244
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315104,40.028359 ]
-    },
-    "properties": {
-    "donation_id":58,
-    "img_src":"LC_058.png",
-    "item":"Moveable Bench",
-    "donor_id":"Ellis Avery '93",
-    "dedi_id":"",
-    "inscription":"So many shining leaves in the air, you can see the shape of the wind. Gift of Ellis Avery, Class of '93",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1290
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313964,40.024853 ]
-    },
-    "properties": {
-    "donation_id":59,
-    "img_src":"LC_059.png",
-    "item":"Moveable Bench",
-    "donor_id":"Class of 1960",
-    "dedi_id":"Class of 1960 45th Reunion",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1260
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312943,40.025539 ]
-    },
-    "properties": {
-    "donation_id":63,
-    "img_src":"LC_063.png",
-    "item":"Portico",
-    "donor_id":"",
-    "dedi_id":"Adelaide W. Neall, Class of 1906",
-    "inscription":"This portico links The Deanery and Wyndham in tribute to <br> Adelaide W. Neall Class of 1906 <br> whose imaginative energy gave much to the life and spirit of The Deanery, first alumnae house of Bryn Mawr College",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313455,40.024166 ]
-    },
-    "properties": {
-    "donation_id":64,
-    "img_src":"LC_064.png",
-    "item":"Lanterns",
-    "donor_id":"BMC Alumnae/i",
-    "dedi_id":"",
-    "inscription":"The alumnae/i of Bryn Mawr College dedicate these lanterns to the glory of Bryn Mawr past and future",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314324,40.027206 ]
-    },
-    "properties": {
-    "donation_id":65,
-    "img_src":"",
-    "item":"Plaque",
-    "donor_id":"",
-    "dedi_id":"Seymour Adelman",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.311635,40.026462 ]
-    },
-    "properties": {
-    "donation_id":66,
-    "img_src":"LC_066.png",
-    "item":"Garden",
-    "donor_id":"",
-    "dedi_id":"Virginia E. Mertz 1937-77",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":1250
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313885,40.026524 ]
-    },
-    "properties": {
-    "donation_id":101,
-    "img_src":"LC_101.png",
-    "item":"Weeping Cherry (Prunus subhirtella pendula)",
-    "donor_id":"Class of 1956",
-    "dedi_id":"Class of 1956",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":102,
-    "img_src":"",
-    "item":"Weeping Cherry (Prunus subhirtella pendula)",
-    "donor_id":"Class of 1957",
-    "dedi_id":"Class of 1957",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312567,40.027552 ]
-    },
-    "properties": {
-    "donation_id":103,
-    "img_src":"LC_103.png",
-    "item":"Cut-Leaf Beech (Fagus sylvatica 'Laciniata')",
-    "donor_id":"Class of 1958",
-    "dedi_id":"Class of 1958",
-    "inscription":"In Memory of our Classmates <br> May 1999",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":150
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313791,40.024705 ]
-    },
-    "properties": {
-    "donation_id":104,
-    "img_src":"LC_104.png",
-    "item":"Japanese Maple (Acer palmatum)",
-    "donor_id":"",
-    "dedi_id":"Alice Turner '60",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":1256
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":105,
-    "img_src":"",
-    "item":"White Oak (Quercus alba)",
-    "donor_id":"Class of 1960",
-    "dedi_id":"Class of 1960",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313241,40.028026 ]
-    },
-    "properties": {
-    "donation_id":106,
-    "img_src":"LC_106.png",
-    "item":"Frontier Elm (Ulmus 'Frontier')",
-    "donor_id":"Barbara Paul Robinson '62",
-    "dedi_id":"Class of 1962 50th Reunion",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":107,
-    "img_src":"",
-    "item":"Weeping Hemlock (Tsuga canadensis)",
-    "donor_id":"Class of 1966",
-    "dedi_id":"Class of 1966",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312763,40.26948 ]
-    },
-    "properties": {
-    "donation_id":108,
-    "img_src":"LC_108.png",
-    "item":"Star Magnolia (Magnolia stellata)",
-    "donor_id":"Class of 1968",
-    "dedi_id":"Class of 1968",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":142
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315472,40.027676 ]
-    },
-    "properties": {
-    "donation_id":109,
-    "img_src":"LC_109.png",
-    "item":"White Oak (Quercus alba)",
-    "donor_id":"Class of 1954",
-    "dedi_id":"Elsie Kemp Schmitz '54",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":391
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31457,40.02596 ]
-    },
-    "properties": {
-    "donation_id":110,
-    "img_src":"LC_110.png",
-    "item":"Japanese Snowbell (Styrax japonica)",
-    "donor_id":"Class of 1974",
-    "dedi_id":"Class of 1974",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":111,
-    "img_src":"",
-    "item":"Spruce (Picea)",
-    "donor_id":"",
-    "dedi_id":"Ernest J. Gallo",
-    "inscription":"In memory of Ernest J. Gallo <br> 1999",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314128,40.026219 ]
-    },
-    "properties": {
-    "donation_id":112,
-    "img_src":"LC_112.png",
-    "item":"Sourwood (Oxydendrum arboreum)",
-    "donor_id":"Susan Brock '80 and Anne Warwick '80",
-    "dedi_id":"Anne Murney '80",
-    "inscription":"Given in memory of Anne Murney '80 <br> Spring 1991",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":113,
-    "img_src":"",
-    "item":"Red Oak (Quercus rubra)",
-    "donor_id":"Class of 1917",
-    "dedi_id":"Class of 1917",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312779,40.026913 ]
-    },
-    "properties": {
-    "donation_id":114,
-    "img_src":"",
-    "item":"Pin Oak (Quercus palustris)",
-    "donor_id":"Class of 1987",
-    "dedi_id":"",
-    "inscription":"Gift of the Class of 1987 <br> \"AKOUE\"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":115,
-    "img_src":"",
-    "item":"White Oak (Quercus alba)",
-    "donor_id":"Class of 1960",
-    "dedi_id":"Class of 1960",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312488,40.025496 ]
-    },
-    "properties": {
-    "donation_id":116,
-    "img_src":"LC_116.png",
-    "item":"Callery Pear (Pyrus calleryane)",
-    "donor_id":"Class of 1934",
-    "dedi_id":"Class of 1934",
-    "inscription":"Given by Frances F. Jones, President of the Class of 1934",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":629
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313667,40.026641 ]
-    },
-    "properties": {
-    "donation_id":117,
-    "img_src":"LC_117.png",
-    "item":"Weeping Cherry (Prunus subhirtella pendula)",
-    "donor_id":"Class of 1964",
-    "dedi_id":"Class of 1964",
-    "inscription":" Celebrating the 50th Reunion ",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":310
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313615,40.026719 ]
-    },
-    "properties": {
-    "donation_id":118,
-    "img_src":"LC_118.png",
-    "item":"Weeping Cherry (Prunus subhirtella pendula)",
-    "donor_id":"Manning Award",
-    "dedi_id":"Susan Kelly Barnes '76",
-    "inscription":" Bryn Mawr College Board of Trustees 1996-2016 <br> in recognition of her leadership, strategic vision, and financial acumen",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.31311,40.02774 ]
-    },
-    "properties": {
-    "donation_id":119,
-    "img_src":"LC_119.png",
-    "item":"Okame Cherry (Prunus 'Okame')",
-    "donor_id":"Class of 1956",
-    "dedi_id":"Class of 1956",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":326
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312806,40.027085 ]
-    },
-    "properties": {
-    "donation_id":120,
-    "img_src":"LC_120.png",
-    "item":"Bigleaf Magnolia (Magnolia macrophylia)",
-    "donor_id":"Class of 1900",
-    "dedi_id":"Class of 1900",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":1271
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313413,40.028297 ]
-    },
-    "properties": {
-    "donation_id":121,
-    "img_src":"LC_121.png",
-    "item":"Frontier Elm (Ulmus 'Frontier')",
-    "donor_id":"Class of 1970",
-    "dedi_id":"Class of 1970",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":93
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313562,40.02848 ]
-    },
-    "properties": {
-    "donation_id":122,
-    "img_src":"LC_122.png",
-    "item":"Frontier Elm (Ulmus 'Frontier')",
-    "donor_id":"",
-    "dedi_id":"Marc Howard Ross",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":94
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313473,40.028382 ]
-    },
-    "properties": {
-    "donation_id":123,
-    "img_src":"LC_123.png",
-    "item":"Frontier Elm (Ulmus 'Frontier')",
-    "donor_id":"",
-    "dedi_id":"Michael Krausz",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":91
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314781,40.02801 ]
-    },
-    "properties": {
-    "donation_id":124,
-    "img_src":"LC_124.png",
-    "item":"Weeping Beech (Fagus sylvatica pendula)",
-    "donor_id":"Class of 1938",
-    "dedi_id":"Class of 1938",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":381
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314948,40.0281 ]
-    },
-    "properties": {
-    "donation_id":125,
-    "img_src":"LC_125.png",
-    "item":"Copper Beech (Fagus sylvatica atropu)",
-    "donor_id":"Class of 1914",
-    "dedi_id":"Class of 1914",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":382
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315087,40.02817 ]
-    },
-    "properties": {
-    "donation_id":126,
-    "img_src":"LC_126.png",
-    "item":"European Beech (Fagus sylvatica)",
-    "donor_id":"Class of 1913",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"yes",
-    "arbor_note":383
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315259,40.028031 ]
-    },
-    "properties": {
-    "donation_id":127,
-    "img_src":"LC_127.png",
-    "item":"Copper Beech (Fagus sylvatica atropu)",
-    "donor_id":"",
-    "dedi_id":"Bryn Mawr 100th Anniversary",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":385
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313159,40.02711 ]
-    },
-    "properties": {
-    "donation_id":128,
-    "img_src":"LC_128.png",
-    "item":"Double-Flowered Higan Cherry (Prunus subhirtella var)",
-    "donor_id":"Elizabeth Blackwell Drake",
-    "dedi_id":"",
-    "inscription":"In Memory of Katherine Mittendorf Blackwell, 1899",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":316
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314562,40.027854 ]
-    },
-    "properties": {
-    "donation_id":129,
-    "img_src":"LC_129.png",
-    "item":"Dogwood (Cornus)",
-    "donor_id":"Class of 1991",
-    "dedi_id":"",
-    "inscription":"In Memory of Ariadne Solter 1991",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":130,
-    "img_src":"",
-    "item":"Cherry (Prunus)",
-    "donor_id":"Class of 2000",
-    "dedi_id":"",
-    "inscription":"Honoring President McPherson",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314701,40.025712 ]
-    },
-    "properties": {
-    "donation_id":131,
-    "img_src":"LC_131.png",
-    "item":"Atlas Cedar (Cedras atlantica)",
-    "donor_id":"Class of 1973",
-    "dedi_id":"Class of 1973",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":132,
-    "img_src":"LC_116.png",
-    "item":"Callery Pear (Pyrus calleryane)",
-    "donor_id":"",
-    "dedi_id":"President Frances F. Jones '34",
-    "inscription":"Given in 1994",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313168,40.02539 ]
-    },
-    "properties": {
-    "donation_id":133,
-    "img_src":"LC_133.png",
-    "item":"Black Gum (Nyssa sylvatica)",
-    "donor_id":"Manning Award",
-    "dedi_id":"",
-    "inscription":"The Helen Taft Manning Award 1983 given to Ellenor Morris '27 in recognition of her outstanding service to Bryn Mawr College",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":635
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312708,40.027342 ]
-    },
-    "properties": {
-    "donation_id":134,
-    "img_src":"LC_134.png",
-    "item":"Red Horsechestnut (Aesculas)",
-    "donor_id":"Class of 1921",
-    "dedi_id":"Class of 1921",
-    "inscription":"Horse Chestnut / Aesculus hippocastanum <br> The horse-chestnut in the early weeks of May is a sight for Gods and men.<br> Phillip Gilbert Hamerton",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":135,
-    "img_src":"",
-    "item":"Red Maple (Acer rubrum)",
-    "donor_id":"Class of 1972",
-    "dedi_id":"Class of 1972",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312635,40.025856 ]
-    },
-    "properties": {
-    "donation_id":136,
-    "img_src":"LC_136.png",
-    "item":"Dogwood (Cornus)",
-    "donor_id":"Manning Award",
-    "dedi_id":"Willie Mae Taylor",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":1251
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":137,
-    "img_src":"",
-    "item":"Dawn Redwood (Metasequoia)",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"Commemorating The Rhoads Family, 300 years in America, 1999",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313704,40.028785 ]
-    },
-    "properties": {
-    "donation_id":138,
-    "img_src":"LC_138.png",
-    "item":"Giant Dogwood (Cornus contraversa)",
-    "donor_id":"Class of 1976",
-    "dedi_id":"Class of 1976",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":87
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313986,40.027375 ]
-    },
-    "properties": {
-    "donation_id":141,
-    "img_src":"LC_141.png",
-    "item":"Scholar-Tree (Sophora japonica)",
-    "donor_id":"",
-    "dedi_id":"Marianne Winter Martin, Ph.D '62",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":294
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.312966,40.02761 ]
-    },
-    "properties": {
-    "donation_id":142,
-    "img_src":"LC_142.png",
-    "item":"Okame Cherry (Prunus 'Okame')",
-    "donor_id":"Class of 2011",
-    "dedi_id":"Bryn Mawr 125th Anniversary",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":327
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313006,40.02766 ]
-    },
-    "properties": {
-    "donation_id":143,
-    "img_src":"LC_143.png",
-    "item":"Okame Cherry (Prunus 'Okame')",
-    "donor_id":"",
-    "dedi_id":"Karen M. Tidmarsh '71",
-    "inscription":"Dean of the College 1990-2010",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":326
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313464,40.02661 ]
-    },
-    "properties": {
-    "donation_id":144,
-    "img_src":"LC_144.png",
-    "item":"Weeping Cherry (Prunus subhirtella pendula)",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"Donated by the McBride Scholars",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":311
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313974,40.02646 ]
-    },
-    "properties": {
-    "donation_id":145,
-    "img_src":"LC_145.png",
-    "item":"Weeping Cherry (Prunus subhirtella pendula)",
-    "donor_id":"",
-    "dedi_id":"Barbara Paul Robinson Board of Directors",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":334
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313913,40.026488 ]
-    },
-    "properties": {
-    "donation_id":146,
-    "img_src":"LC_146.png",
-    "item":"Weeping Cherry (Prunus subhirtella pendula)",
-    "donor_id":"",
-    "dedi_id":"Elise Kemp Schmitz '54",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":333
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314228,40.02633 ]
-    },
-    "properties": {
-    "donation_id":147,
-    "img_src":"LC_147.png",
-    "item":"Weeping Cherry (Prunus subhirtella pendula)",
-    "donor_id":"",
-    "dedi_id":"Gridley McKim-Smith, Prof. of History of Art",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":337
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.311738,40.025947 ]
-    },
-    "properties": {
-    "donation_id":148,
-    "img_src":"LC_148.png",
-    "item":"Blue Spruce (Picea pungens)",
-    "donor_id":"Class of 1960",
-    "dedi_id":"Honor of Cynthia Secor '60 and her mother Bernice Secor",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":591
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.313234,40.024842 ]
-    },
-    "properties": {
-    "donation_id":149,
-    "img_src":"LC_149.png",
-    "item":"Elm (Ulmus glabra)",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"yes",
-    "arbor_note":720
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315087,40.02817 ]
-    },
-    "properties": {
-    "donation_id":150,
-    "img_src":"LC_125.png",
-    "item":"Beech (Fagus sylvatica 'Atropunicea')",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"yes",
-    "arbor_note":383
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315122,40.02765 ]
-    },
-    "properties": {
-    "donation_id":151,
-    "img_src":"LC_151.png",
-    "item":"Prunus avium (Mazzard Cherry)",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"yes",
-    "arbor_note":372
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315381,40.02714 ]
-    },
-    "properties": {
-    "donation_id":152,
-    "img_src":"LC_152.png",
-    "item":"Phellodendron amurense (Amur corktree)",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"yes",
-    "arbor_note":361
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314161,40.02611 ]
-    },
-    "properties": {
-    "donation_id":153,
-    "img_src":"LC_153.png",
-    "item":"Weeping Hemlock (Tsuga canadensis 'Pendula')",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"yes",
-    "arbor_note":344
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.314133,40.024612 ]
-    },
-    "properties": {
-    "donation_id":154,
-    "img_src":"LC_154.png",
-    "item":"Ginkgo biloba (Maidenhair tree)",
-    "donor_id":"",
-    "dedi_id":"",
-    "inscription":"",
-    "icon":"tree",
-    "state_champ":"yes",
-    "arbor_note":665
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.3156,40.02937 ]
-    },
-    "properties": {
-    "donation_id":155,
-    "img_src":"LC_155.png",
-    "item":"Paperbark Maple (Acer griseum)",
-    "donor_id":"",
-    "dedi_id":"Steve Z. Levine",
-    "inscription":"Professor of History of Art and Leslie Clark Professor in the Humanities",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":1284
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.315806,40.027034 ]
-    },
-    "properties": {
-    "donation_id":156,
-    "img_src":"LC_156.png",
-    "item":"Nancy Vickers Garden",
-    "donor_id":"",
-    "dedi_id":"Nancy Vickers",
-    "inscription":"",
-    "icon":"object",
-    "state_champ":"no ",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.3125,40.0261 ]
-    },
-    "properties": {
-    "donation_id":157,
-    "img_src":"LC_157.png",
-    "item":"Bench",
-    "donor_id":"Alumnae Relations and Development Colleagues",
-    "dedi_id":"Linda ten Boom",
-    "inscription":"In loving memory of Linda ten Boom <br> Our dear friend and colleague for 20 years of loyalth and dedication to Bryn Mawr College",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":158,
-    "img_src":"",
-    "item":"Moveable Chair",
-    "donor_id":"Friends of Ellis Avery '93",
-    "dedi_id":"Ellis Avery '93",
-    "inscription":"Leaves gather, embrace the winter ground. Each year lays down fresh kisses.",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":159,
-    "img_src":"",
-    "item":"Moveable Chair",
-    "donor_id":"Friends of Ellis Avery '93",
-    "dedi_id":"Ellis Avery '93",
-    "inscription":"Ellis Avery '93: Poet, Author, Scientist and Dear Friend. <br>We will always hold you in our hearts.",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":160,
-    "img_src":"",
-    "item":"Cloisters Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"Mabel Lang, PhD '43",
-    "inscription":"Mabel Lang PhD 1934 <br> Helen Taft Manning Award 1988",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":161,
-    "img_src":"",
-    "item":"Wyndham Bench",
-    "donor_id":"Manning Award",
-    "dedi_id":"Ellen Fernon Reisner, MA '33",
-    "inscription":"Ellen Fernon Reisner, MA '33 <br> Helen Taft Manning Award 1988",
-    "icon":"object",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":162,
-    "img_src":"",
-    "item":"Tree",
-    "donor_id":"Manning Award",
-    "dedi_id":"Susan Savage Speers '51",
-    "inscription":"Susan Savage Speers '51 <br> Helen Taft Manning Award 1999",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":163,
-    "img_src":"",
-    "item":"Tree",
-    "donor_id":"Manning Award",
-    "dedi_id":"Elizabeth G. Vermey '58",
-    "inscription":"Elizabeth G. Vermey '58 <br> Helen Taft Manning Award 1999",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 0,0 ]
-    },
-    "properties": {
-    "donation_id":164,
-    "img_src":"",
-    "item":"Tree",
-    "donor_id":"Manning Award",
-    "dedi_id":"Margaret H. Healy, PhD '69",
-    "inscription":"Margaret H. Healy, PhD '69 <br> Helen Taft Manning Award 1997",
-    "icon":"tree",
-    "state_champ":"no",
-    "arbor_note":null
-    }
-  }
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312917,40.025603 ]
+   },
+   "properties": {
+   "donation_id":0,
+   "img_src":"",
+   "item":"Wildflower Meadow",
+   "donor_id":"Class of 1966",
+   "dedi_id":"Mary E. Daubenspeck '66",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313455,40.024166 ]
+   },
+   "properties": {
+   "donation_id":1,
+   "img_src":"LC_001.png",
+   "item":"Stone Gates",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"Gates given in honor of Anne Leigh Hobson Broughton '30, MA '36<br>Director of Admissions 1943-1965",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315949,40.028535 ]
+   },
+   "properties": {
+   "donation_id":2,
+   "img_src":"",
+   "item":"Shillingford Field",
+   "donor_id":"BMC",
+   "dedi_id":"",
+   "inscription":"Shillingford Field <br> Named in honor of Jenepher P. Shillingford for her contributions as field hockey coach and director of athletics and physical education for more than 20 years <br> October 25, 1998",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315949,40.030151 ]
+   },
+   "properties": {
+   "donation_id":3,
+   "img_src":"LC_003.png",
+   "item":"Shale-Limestone Block",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"Florence Bascom, PhD, Geology",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315027,40.026886 ]
+   },
+   "properties": {
+   "donation_id":4,
+   "img_src":"",
+   "item":"Sculpture",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314063,40.024677 ]
+   },
+   "properties": {
+   "donation_id":5,
+   "img_src":"LC_005.png",
+   "item":"Renovation of Sunken Garden",
+   "donor_id":"Class of 1996",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.316629,40.027586 ]
+   },
+   "properties": {
+   "donation_id":6,
+   "img_src":"LC_006.png",
+   "item":"Nancy Vickers Pond",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315325,40.027224 ]
+   },
+   "properties": {
+   "donation_id":7,
+   "img_src":"LC_007.png",
+   "item":"Owl Statue",
+   "donor_id":"Jacqueline Badger Mars '61",
+   "dedi_id":"",
+   "inscription":"Mezza Luna <br>Diana - Reuter - Twining <br> Gift Jacqueline Badger Mars 1961",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31494,40.029288 ]
+   },
+   "properties": {
+   "donation_id":8,
+   "img_src":"LC_008.png",
+   "item":"Moon Bench",
+   "donor_id":"Moon family cemetary plot",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1278
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":9,
+   "img_src":"",
+   "item":"McPherson Garden",
+   "donor_id":"The Staff Association",
+   "dedi_id":"",
+   "inscription":"Given by the Staff Association in honor of President Mary Patterson McPherson 1997",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31284,40.026537 ]
+   },
+   "properties": {
+   "donation_id":10,
+   "img_src":"",
+   "item":"Lion Pillars",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"McBride Gateway <br> In Memory of Katharine Elizabeth McBride<br> President of Bryn Mawr College 1942-1970",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314707,40.029389 ]
+   },
+   "properties": {
+   "donation_id":11,
+   "img_src":"",
+   "item":"Sculpture",
+   "donor_id":"Annick M. Doeff, PhD '77",
+   "dedi_id":"",
+   "inscription":"In Memoriam<br>Henriette Elisabeth Rollett nee Kleinsmeide Born 2-19-38, Sumatra, Indonesia <br> Interned 1942-45 During World War II on Java, Indonesia Died accidentally 8-6-1986 in Oisly, France together with her husband",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31509,40.027317 ]
+   },
+   "properties": {
+   "donation_id":12,
+   "img_src":"LC_012.png",
+   "item":"Fountain",
+   "donor_id":"Susan Alexander '78",
+   "dedi_id":"",
+   "inscription":"This fountain celebrates alumna and mother Joan S. Alexander's passion for water, thirst for knowledge, and love of family",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31496,40.030228 ]
+   },
+   "properties": {
+   "donation_id":13,
+   "img_src":"LC_013.png",
+   "item":"Large Rock",
+   "donor_id":"",
+   "dedi_id":"One Century of Bryn Mawr Geology 1895-1995",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315441,40.025929 ]
+   },
+   "properties": {
+   "donation_id":14,
+   "img_src":"",
+   "item":"Island",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"For James and Grace",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313604,40.026922 ]
+   },
+   "properties": {
+   "donation_id":15,
+   "img_src":"LC_015.png",
+   "item":"Garden, Bench, and Rock",
+   "donor_id":"Class of 1962",
+   "dedi_id":"",
+   "inscription":"Poetry Nook in Memory of Jane Hess Flanders, Class of 1962 <br> Poet Musician and Gardener",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1268
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312746,40.027065 ]
+   },
+   "properties": {
+   "donation_id":16,
+   "img_src":"LC_016.png",
+   "item":"Garden and Built-In Bench on Concrete",
+   "donor_id":"Class of 1934",
+   "dedi_id":"",
+   "inscription":"In Memory of Katharine Gribbel Carter, Class of 1934",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1270
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":17,
+   "img_src":"",
+   "item":"Garden and Bench",
+   "donor_id":"Class of 1987",
+   "dedi_id":"",
+   "inscription":"Catherine Martha Pugin",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314202,40.026853 ]
+   },
+   "properties": {
+   "donation_id":18,
+   "img_src":"LC_018.png",
+   "item":"Cloisters Fountain",
+   "donor_id":"Class of 1901",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313738,40.028846 ]
+   },
+   "properties": {
+   "donation_id":19,
+   "img_src":"LC_019.png",
+   "item":"Garden and Bench",
+   "donor_id":"Charlotte Drabkin Garrell '54 and Elizabeth Garrell Bacon '92",
+   "dedi_id":"Minnie Masion Drabkin",
+   "inscription":"Minnie Masion Drabkin Bench",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1276
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312281,40.027588 ]
+   },
+   "properties": {
+   "donation_id":20,
+   "img_src":"LC_020.png",
+   "item":"Concrete Bench",
+   "donor_id":"Class of 1897",
+   "dedi_id":"",
+   "inscription":"In Memoriam Elsie Campbell Sinclair Hodge, AB 1897 <br> Born Dec 15, 1874  Died in the Massacre of Christians at Paotingfu, China, June 1900",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1272
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315414,40.028352 ]
+   },
+   "properties": {
+   "donation_id":21,
+   "img_src":"LC_021.png",
+   "item":"Permanent Bench",
+   "donor_id":"Sally and Frank Mallory",
+   "dedi_id":"",
+   "inscription":"Julie E. Painter, AB 1959 / (1938-2004)",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1287
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.316277,40.028884 ]
+   },
+   "properties": {
+   "donation_id":22,
+   "img_src":"LC_022.png",
+   "item":"Permanent Bench",
+   "donor_id":"Class of 1964",
+   "dedi_id":"Class of 1964 40th Reunion",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1297
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315052,40.029164 ]
+   },
+   "properties": {
+   "donation_id":23,
+   "img_src":"LC_023.png",
+   "item":"Permanent Bench",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"For Thelma F. Shtasel, PhD '68 on Her 80th Birthday <br> \"Immortality lies not in the things you leave behind, but in the people your life has touched.\" With Love From Her Children and Their Families 4/20/04",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1285
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315115,40.028924 ]
+   },
+   "properties": {
+   "donation_id":24,
+   "img_src":"LC_024.png",
+   "item":"Permanent bench",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"In Loving Memory of Gayle Furtney Class of 1976",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1286
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":25,
+   "img_src":"",
+   "item":"Permanent Bench",
+   "donor_id":"Class of 1980",
+   "dedi_id":"Class of 1980",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31539,40.028353 ]
+   },
+   "properties": {
+   "donation_id":26,
+   "img_src":"LC_026.png",
+   "item":"Permanent Bench",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"In honor of Professor Machteld J. Mellink",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1289
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315368,40.028478 ]
+   },
+   "properties": {
+   "donation_id":27,
+   "img_src":"LC_027.png",
+   "item":"Moveable Bench",
+   "donor_id":"Class of 1926",
+   "dedi_id":"",
+   "inscription":"In Loving Memory of Alice Long Goldsmith, Class of 1926",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1288
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.318001,40.028935 ]
+   },
+   "properties": {
+   "donation_id":28,
+   "img_src":"LC_028.png",
+   "item":"Moveable Bench",
+   "donor_id":"",
+   "dedi_id":"Alice Long Goldsmith '26",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1295
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313869,40.027384 ]
+   },
+   "properties": {
+   "donation_id":29,
+   "img_src":"LC_029.png",
+   "item":"Moveable Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"",
+   "inscription":"Anne Leigh Hobson Broughton '30",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1245
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":30,
+   "img_src":"",
+   "item":"Moveable Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"",
+   "inscription":"Clarissa Wardwell Pell '30",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":31,
+   "img_src":"",
+   "item":"Moveable Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"",
+   "inscription":"In Honor of Ellen Fernon Reisner, MA '33 <br> Helen Taft Manning Award 1988",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315193,40.027174 ]
+   },
+   "properties": {
+   "donation_id":32,
+   "img_src":"LC_032.png",
+   "item":"Moveable Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"",
+   "inscription":"In Honor of Professor Mabel L. Lang <br> Helen Taft Manning Award 1988",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1239
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315147,40.029847 ]
+   },
+   "properties": {
+   "donation_id":33,
+   "img_src":"LC_033.png",
+   "item":"Moveable Bench",
+   "donor_id":"Clelia Wood Mallory '59, PhD '63",
+   "dedi_id":"",
+   "inscription":"Gift of Clelia Wood Mallory '59, PhD '63  in honor of  Edith H. Lanman, 1892-1992 <br> whose 43 years of devoted teaching inspired generations of chemistry students",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1280
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313861,40.024892 ]
+   },
+   "properties": {
+   "donation_id":34,
+   "img_src":"LC_034.png",
+   "item":"Moveable Bench",
+   "donor_id":"Class of 1960",
+   "dedi_id":"",
+   "inscription":"Presented in May 2010 by the Class of 1960 on the occasion of our 50th reunion <br> In memory of our classmates who have died since we last met under this Arbor in 2005",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1262
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313823,40.024834 ]
+   },
+   "properties": {
+   "donation_id":35,
+   "img_src":"LC_035.png",
+   "item":"Moveable Bench",
+   "donor_id":"Class of 1960",
+   "dedi_id":"",
+   "inscription":"Presented by the Class of 1960 on the occasion of our 40th Reunion",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1259
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31388,40.024824 ]
+   },
+   "properties": {
+   "donation_id":36,
+   "img_src":"LC_036.png",
+   "item":"Moveable Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"",
+   "inscription":"The Helen Taft Manning Award 2000 given to Barbara Janney Trimble '60 in recognition of her outstanding service to Bryn Mawr College",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1261
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313537,40.024427 ]
+   },
+   "properties": {
+   "donation_id":37,
+   "img_src":"LC_037.png",
+   "item":"Moveable Bench",
+   "donor_id":"Class of 1961",
+   "dedi_id":"40th Reunion",
+   "inscription":"In Remembrance of Departed Classmates and in Celebration of Their Lives",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1265
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314139,40.02609 ]
+   },
+   "properties": {
+   "donation_id":38,
+   "img_src":"LC_038.png",
+   "item":"Moveable Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"",
+   "inscription":"Barbara Bauman Morrison '62 <br> Helen Taft Manning Award 2015",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1248
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315109,40.027113 ]
+   },
+   "properties": {
+   "donation_id":39,
+   "img_src":"LC_039.png",
+   "item":"Moveable Bench",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"In honor of Filiz Eda Burhan '72 <br> Respected scholar and beloved teacher",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1117
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313532,40.024344 ]
+   },
+   "properties": {
+   "donation_id":40,
+   "img_src":"LC_040.png",
+   "item":"Moveable Bench",
+   "donor_id":"Class of 1977",
+   "dedi_id":"25th Reunion",
+   "inscription":"Remembering deceased classmates and missing you at our 25th Reunion",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1266
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314836,40.026398 ]
+   },
+   "properties": {
+   "donation_id":41,
+   "img_src":"LC_041.png",
+   "item":"Moveable Bench",
+   "donor_id":"Donna & Robert Griffin and Karla's friends",
+   "dedi_id":"",
+   "inscription":"In Loving Memory of Karla A. Griffin '89, MA '93, Who Worked for the Dignity of Women and Children",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312847,40.02789 ]
+   },
+   "properties": {
+   "donation_id":42,
+   "img_src":"LC_042.png",
+   "item":"Moveable Bench",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"In Memory of Stefanie Newman '89",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1275
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314465,40.026033 ]
+   },
+   "properties": {
+   "donation_id":43,
+   "img_src":"LC_043.png",
+   "item":"Moveable Bench",
+   "donor_id":"Bey-Shan Chien Liu '98",
+   "dedi_id":"",
+   "inscription":"To my darling daughters Colette and Juliette, here is a place where you may take a moment to dream at a place that means the world to me.",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1247
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31293,40.025505 ]
+   },
+   "properties": {
+   "donation_id":44,
+   "img_src":"LC_044.png",
+   "item":"Moveable Bench",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"Estee Lauder Companies at Bryn Mawr College / Five Year Anniversary / June 2014 / In Honor of Lisa Zernicke and Nancy Cassano-George",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313703,40.024376 ]
+   },
+   "properties": {
+   "donation_id":45,
+   "img_src":"LC_045.png",
+   "item":"Moveable Bench",
+   "donor_id":"",
+   "dedi_id":"Sue \"The Glue\" Joceville 1955-2009",
+   "inscription":"Her courage, grace, kindness, and good humor will always inspire her friends and colleagues in the Gateway Building",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1267
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312904,40.028661 ]
+   },
+   "properties": {
+   "donation_id":46,
+   "img_src":"",
+   "item":"Moveable Bench",
+   "donor_id":"",
+   "dedi_id":"Steve Bennett 2012",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315072,40.030348 ]
+   },
+   "properties": {
+   "donation_id":47,
+   "img_src":"LC_047.png",
+   "item":"Moveable Bench",
+   "donor_id":"",
+   "dedi_id":"Ann Mullin Daudert",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1283
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313835,40.026753 ]
+   },
+   "properties": {
+   "donation_id":48,
+   "img_src":"LC_048.png",
+   "item":"Moveable Bench",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"In loving memory of Professor Alain Silvera (1930-2008) who loved to learn and teach, Bryn Mawr 1961-1997",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1246
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312523,40.027294 ]
+   },
+   "properties": {
+   "donation_id":49,
+   "img_src":"LC_049.png",
+   "item":"Moveable Bench",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"Bernie \"The Plant Man\" Wiener <br> Thanks for always making me feel young",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1273
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":50,
+   "img_src":"",
+   "item":"Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"",
+   "inscription":"Martha Stokes Price '47 <br> Helen Taft Manning Award 1995",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312266,40.02634 ]
+   },
+   "properties": {
+   "donation_id":51,
+   "img_src":"LC_051.png",
+   "item":"Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"",
+   "inscription":"Betsy Havens Watkins '61 <br> Helen Taft Manning Award 1997",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":52,
+   "img_src":"",
+   "item":"Bench",
+   "donor_id":"Carolyn Ehrlich Goldstein '60",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.316168,40.027152 ]
+   },
+   "properties": {
+   "donation_id":53,
+   "img_src":"LC_053.png",
+   "item":"Bench",
+   "donor_id":"Shirley Noble",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1293
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314915,40.30197 ]
+   },
+   "properties": {
+   "donation_id":54,
+   "img_src":"LC_054.png",
+   "item":"Bench",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"In memory of Ethel Walker Whitestone, Science Librarian",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1282
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31387,40.024854 ]
+   },
+   "properties": {
+   "donation_id":55,
+   "img_src":"LC_055.png",
+   "item":"Arbor",
+   "donor_id":"Class of 1960",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312201,40.025519 ]
+   },
+   "properties": {
+   "donation_id":56,
+   "img_src":"LC_056.png",
+   "item":"4 Permanent Benches and Garden",
+   "donor_id":"",
+   "dedi_id":"Barbara Thacher '40",
+   "inscription":"Barbara Auchincloss Thacher Memorial Path",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1298
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31419,40.027356 ]
+   },
+   "properties": {
+   "donation_id":57,
+   "img_src":"LC_057.png",
+   "item":"3 Stone Benches",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"Dedicated to Max Weiss, one who revered knowledge, nature, history, and those who appreciate their significance",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1244
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315104,40.028359 ]
+   },
+   "properties": {
+   "donation_id":58,
+   "img_src":"LC_058.png",
+   "item":"Moveable Bench",
+   "donor_id":"Ellis Avery '93",
+   "dedi_id":"",
+   "inscription":"So many shining leaves in the air, you can see the shape of the wind. Gift of Ellis Avery, Class of '93",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1290
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313964,40.024853 ]
+   },
+   "properties": {
+   "donation_id":59,
+   "img_src":"LC_059.png",
+   "item":"Moveable Bench",
+   "donor_id":"Class of 1960",
+   "dedi_id":"Class of 1960 45th Reunion",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1260
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312943,40.025539 ]
+   },
+   "properties": {
+   "donation_id":63,
+   "img_src":"LC_063.png",
+   "item":"Portico",
+   "donor_id":"",
+   "dedi_id":"Adelaide W. Neall, Class of 1906",
+   "inscription":"This portico links The Deanery and Wyndham in tribute to <br> Adelaide W. Neall Class of 1906 <br> whose imaginative energy gave much to the life and spirit of The Deanery, first alumnae house of Bryn Mawr College",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313455,40.024166 ]
+   },
+   "properties": {
+   "donation_id":64,
+   "img_src":"LC_064.png",
+   "item":"Lanterns",
+   "donor_id":"BMC Alumnae/i",
+   "dedi_id":"",
+   "inscription":"The alumnae/i of Bryn Mawr College dedicate these lanterns to the glory of Bryn Mawr past and future",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314324,40.027206 ]
+   },
+   "properties": {
+   "donation_id":65,
+   "img_src":"",
+   "item":"Plaque",
+   "donor_id":"",
+   "dedi_id":"Seymour Adelman",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.311635,40.026462 ]
+   },
+   "properties": {
+   "donation_id":66,
+   "img_src":"LC_066.png",
+   "item":"Garden",
+   "donor_id":"",
+   "dedi_id":"Virginia E. Mertz 1937-77",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":1250
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313885,40.026524 ]
+   },
+   "properties": {
+   "donation_id":101,
+   "img_src":"LC_101.png",
+   "item":"Weeping Cherry (Prunus subhirtella pendula)",
+   "donor_id":"Class of 1956",
+   "dedi_id":"Class of 1956",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":102,
+   "img_src":"",
+   "item":"Weeping Cherry (Prunus subhirtella pendula)",
+   "donor_id":"Class of 1957",
+   "dedi_id":"Class of 1957",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312567,40.027552 ]
+   },
+   "properties": {
+   "donation_id":103,
+   "img_src":"LC_103.png",
+   "item":"Cut-Leaf Beech (Fagus sylvatica 'Laciniata')",
+   "donor_id":"Class of 1958",
+   "dedi_id":"Class of 1958",
+   "inscription":"In Memory of our Classmates <br> May 1999",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":150
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313791,40.024705 ]
+   },
+   "properties": {
+   "donation_id":104,
+   "img_src":"LC_104.png",
+   "item":"Japanese Maple (Acer palmatum)",
+   "donor_id":"",
+   "dedi_id":"Alice Turner '60",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":1256
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":105,
+   "img_src":"",
+   "item":"White Oak (Quercus alba)",
+   "donor_id":"Class of 1960",
+   "dedi_id":"Class of 1960",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313241,40.028026 ]
+   },
+   "properties": {
+   "donation_id":106,
+   "img_src":"LC_106.png",
+   "item":"Frontier Elm (Ulmus 'Frontier')",
+   "donor_id":"Barbara Paul Robinson '62",
+   "dedi_id":"Class of 1962 50th Reunion",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":107,
+   "img_src":"",
+   "item":"Weeping Hemlock (Tsuga canadensis)",
+   "donor_id":"Class of 1966",
+   "dedi_id":"Class of 1966",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312763,40.26948 ]
+   },
+   "properties": {
+   "donation_id":108,
+   "img_src":"LC_108.png",
+   "item":"Star Magnolia (Magnolia stellata)",
+   "donor_id":"Class of 1968",
+   "dedi_id":"Class of 1968",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":142
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315472,40.027676 ]
+   },
+   "properties": {
+   "donation_id":109,
+   "img_src":"LC_109.png",
+   "item":"White Oak (Quercus alba)",
+   "donor_id":"Class of 1954",
+   "dedi_id":"Elsie Kemp Schmitz '54",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":391
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31457,40.02596 ]
+   },
+   "properties": {
+   "donation_id":110,
+   "img_src":"LC_110.png",
+   "item":"Japanese Snowbell (Styrax japonica)",
+   "donor_id":"Class of 1974",
+   "dedi_id":"Class of 1974",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":111,
+   "img_src":"",
+   "item":"Spruce (Picea)",
+   "donor_id":"",
+   "dedi_id":"Ernest J. Gallo",
+   "inscription":"In memory of Ernest J. Gallo <br> 1999",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314128,40.026219 ]
+   },
+   "properties": {
+   "donation_id":112,
+   "img_src":"LC_112.png",
+   "item":"Sourwood (Oxydendrum arboreum)",
+   "donor_id":"Susan Brock '80 and Anne Warwick '80",
+   "dedi_id":"Anne Murney '80",
+   "inscription":"Given in memory of Anne Murney '80 <br> Spring 1991",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":113,
+   "img_src":"",
+   "item":"Red Oak (Quercus rubra)",
+   "donor_id":"Class of 1917",
+   "dedi_id":"Class of 1917",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312779,40.026913 ]
+   },
+   "properties": {
+   "donation_id":114,
+   "img_src":"",
+   "item":"Pin Oak (Quercus palustris)",
+   "donor_id":"Class of 1987",
+   "dedi_id":"",
+   "inscription":"Gift of the Class of 1987 <br> \"AKOUE\"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":115,
+   "img_src":"",
+   "item":"White Oak (Quercus alba)",
+   "donor_id":"Class of 1960",
+   "dedi_id":"Class of 1960",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312488,40.025496 ]
+   },
+   "properties": {
+   "donation_id":116,
+   "img_src":"LC_116.png",
+   "item":"Callery Pear (Pyrus calleryane)",
+   "donor_id":"Class of 1934",
+   "dedi_id":"Class of 1934",
+   "inscription":"Given by Frances F. Jones, President of the Class of 1934",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":629
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313667,40.026641 ]
+   },
+   "properties": {
+   "donation_id":117,
+   "img_src":"LC_117.png",
+   "item":"Weeping Cherry (Prunus subhirtella pendula)",
+   "donor_id":"Class of 1964",
+   "dedi_id":"Class of 1964",
+   "inscription":"Celebrating the 50th Reunion",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":310
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313615,40.026719 ]
+   },
+   "properties": {
+   "donation_id":118,
+   "img_src":"LC_118.png",
+   "item":"Weeping Cherry (Prunus subhirtella pendula)",
+   "donor_id":"Manning Award",
+   "dedi_id":"Susan Kelly Barnes '76",
+   "inscription":"Bryn Mawr College Board of Trustees 1996-2016 <br> in recognition of her leadership, strategic vision, and financial acumen",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.31311,40.02774 ]
+   },
+   "properties": {
+   "donation_id":119,
+   "img_src":"LC_119.png",
+   "item":"Okame Cherry (Prunus 'Okame')",
+   "donor_id":"Class of 1956",
+   "dedi_id":"Class of 1956",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":326
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312806,40.027085 ]
+   },
+   "properties": {
+   "donation_id":120,
+   "img_src":"LC_120.png",
+   "item":"Bigleaf Magnolia (Magnolia macrophylia)",
+   "donor_id":"Class of 1900",
+   "dedi_id":"Class of 1900",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":1271
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313413,40.028297 ]
+   },
+   "properties": {
+   "donation_id":121,
+   "img_src":"LC_121.png",
+   "item":"Frontier Elm (Ulmus 'Frontier')",
+   "donor_id":"Class of 1970",
+   "dedi_id":"Class of 1970",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":93
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313562,40.02848 ]
+   },
+   "properties": {
+   "donation_id":122,
+   "img_src":"LC_122.png",
+   "item":"Frontier Elm (Ulmus 'Frontier')",
+   "donor_id":"",
+   "dedi_id":"Marc Howard Ross",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":94
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313473,40.028382 ]
+   },
+   "properties": {
+   "donation_id":123,
+   "img_src":"LC_123.png",
+   "item":"Frontier Elm (Ulmus 'Frontier')",
+   "donor_id":"",
+   "dedi_id":"Michael Krausz",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":91
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314781,40.02801 ]
+   },
+   "properties": {
+   "donation_id":124,
+   "img_src":"LC_124.png",
+   "item":"Weeping Beech (Fagus sylvatica pendula)",
+   "donor_id":"Class of 1938",
+   "dedi_id":"Class of 1938",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":381
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314948,40.0281 ]
+   },
+   "properties": {
+   "donation_id":125,
+   "img_src":"LC_125.png",
+   "item":"Copper Beech (Fagus sylvatica atropu)",
+   "donor_id":"Class of 1914",
+   "dedi_id":"Class of 1914",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":382
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315087,40.02817 ]
+   },
+   "properties": {
+   "donation_id":126,
+   "img_src":"LC_126.png",
+   "item":"European Beech (Fagus sylvatica)",
+   "donor_id":"Class of 1913",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"yes",
+   "arbor_note":383
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315259,40.028031 ]
+   },
+   "properties": {
+   "donation_id":127,
+   "img_src":"LC_127.png",
+   "item":"Copper Beech (Fagus sylvatica atropu)",
+   "donor_id":"",
+   "dedi_id":"Bryn Mawr 100th Anniversary",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":385
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313159,40.02711 ]
+   },
+   "properties": {
+   "donation_id":128,
+   "img_src":"LC_128.png",
+   "item":"Double-Flowered Higan Cherry (Prunus subhirtella var)",
+   "donor_id":"Elizabeth Blackwell Drake",
+   "dedi_id":"",
+   "inscription":"In Memory of Katherine Mittendorf Blackwell, 1899",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":316
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314562,40.027854 ]
+   },
+   "properties": {
+   "donation_id":129,
+   "img_src":"LC_129.png",
+   "item":"Dogwood (Cornus)",
+   "donor_id":"Class of 1991",
+   "dedi_id":"",
+   "inscription":"In Memory of Ariadne Solter 1991",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":130,
+   "img_src":"",
+   "item":"Cherry (Prunus)",
+   "donor_id":"Class of 2000",
+   "dedi_id":"",
+   "inscription":"Honoring President McPherson",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314701,40.025712 ]
+   },
+   "properties": {
+   "donation_id":131,
+   "img_src":"LC_131.png",
+   "item":"Atlas Cedar (Cedras atlantica)",
+   "donor_id":"Class of 1973",
+   "dedi_id":"Class of 1973",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":132,
+   "img_src":"LC_116.png",
+   "item":"Callery Pear (Pyrus calleryane)",
+   "donor_id":"",
+   "dedi_id":"President Frances F. Jones '34",
+   "inscription":"Given in 1994",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313168,40.02539 ]
+   },
+   "properties": {
+   "donation_id":133,
+   "img_src":"LC_133.png",
+   "item":"Black Gum (Nyssa sylvatica)",
+   "donor_id":"Manning Award",
+   "dedi_id":"",
+   "inscription":"The Helen Taft Manning Award 1983 given to Ellenor Morris '27 in recognition of her outstanding service to Bryn Mawr College",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":635
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312708,40.027342 ]
+   },
+   "properties": {
+   "donation_id":134,
+   "img_src":"LC_134.png",
+   "item":"Red Horsechestnut (Aesculas)",
+   "donor_id":"Class of 1921",
+   "dedi_id":"Class of 1921",
+   "inscription":"Horse Chestnut / Aesculus hippocastanum <br> The horse-chestnut in the early weeks of May is a sight for Gods and men.<br> Phillip Gilbert Hamerton",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":135,
+   "img_src":"",
+   "item":"Red Maple (Acer rubrum)",
+   "donor_id":"Class of 1972",
+   "dedi_id":"Class of 1972",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312635,40.025856 ]
+   },
+   "properties": {
+   "donation_id":136,
+   "img_src":"LC_136.png",
+   "item":"Dogwood (Cornus)",
+   "donor_id":"Manning Award",
+   "dedi_id":"Willie Mae Taylor",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":1251
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":137,
+   "img_src":"",
+   "item":"Dawn Redwood (Metasequoia)",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"Commemorating The Rhoads Family, 300 years in America, 1999",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313704,40.028785 ]
+   },
+   "properties": {
+   "donation_id":138,
+   "img_src":"LC_138.png",
+   "item":"Giant Dogwood (Cornus contraversa)",
+   "donor_id":"Class of 1976",
+   "dedi_id":"Class of 1976",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":87
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313986,40.027375 ]
+   },
+   "properties": {
+   "donation_id":141,
+   "img_src":"LC_141.png",
+   "item":"Scholar-Tree (Sophora japonica)",
+   "donor_id":"",
+   "dedi_id":"Marianne Winter Martin, Ph.D '62",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":294
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.312966,40.02761 ]
+   },
+   "properties": {
+   "donation_id":142,
+   "img_src":"LC_142.png",
+   "item":"Okame Cherry (Prunus 'Okame')",
+   "donor_id":"Class of 2011",
+   "dedi_id":"Bryn Mawr 125th Anniversary",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":327
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313006,40.02766 ]
+   },
+   "properties": {
+   "donation_id":143,
+   "img_src":"LC_143.png",
+   "item":"Okame Cherry (Prunus 'Okame')",
+   "donor_id":"",
+   "dedi_id":"Karen M. Tidmarsh '71",
+   "inscription":"Dean of the College 1990-2010",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":326
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313464,40.02661 ]
+   },
+   "properties": {
+   "donation_id":144,
+   "img_src":"LC_144.png",
+   "item":"Weeping Cherry (Prunus subhirtella pendula)",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"Donated by the McBride Scholars",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":311
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313974,40.02646 ]
+   },
+   "properties": {
+   "donation_id":145,
+   "img_src":"LC_145.png",
+   "item":"Weeping Cherry (Prunus subhirtella pendula)",
+   "donor_id":"",
+   "dedi_id":"Barbara Paul Robinson Board of Directors",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":334
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313913,40.026488 ]
+   },
+   "properties": {
+   "donation_id":146,
+   "img_src":"LC_146.png",
+   "item":"Weeping Cherry (Prunus subhirtella pendula)",
+   "donor_id":"",
+   "dedi_id":"Elise Kemp Schmitz '54",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":333
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314228,40.02633 ]
+   },
+   "properties": {
+   "donation_id":147,
+   "img_src":"LC_147.png",
+   "item":"Weeping Cherry (Prunus subhirtella pendula)",
+   "donor_id":"",
+   "dedi_id":"Gridley McKim-Smith, Prof. of History of Art",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":337
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.311738,40.025947 ]
+   },
+   "properties": {
+   "donation_id":148,
+   "img_src":"LC_148.png",
+   "item":"Blue Spruce (Picea pungens)",
+   "donor_id":"Class of 1960",
+   "dedi_id":"Honor of Cynthia Secor '60 and her mother Bernice Secor",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":591
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.313234,40.024842 ]
+   },
+   "properties": {
+   "donation_id":149,
+   "img_src":"LC_149.png",
+   "item":"Elm (Ulmus glabra)",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"yes",
+   "arbor_note":720
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315087,40.02817 ]
+   },
+   "properties": {
+   "donation_id":150,
+   "img_src":"LC_125.png",
+   "item":"Beech (Fagus sylvatica 'Atropunicea')",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"yes",
+   "arbor_note":383
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315122,40.02765 ]
+   },
+   "properties": {
+   "donation_id":151,
+   "img_src":"LC_151.png",
+   "item":"Prunus avium (Mazzard Cherry)",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"yes",
+   "arbor_note":372
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315381,40.02714 ]
+   },
+   "properties": {
+   "donation_id":152,
+   "img_src":"LC_152.png",
+   "item":"Phellodendron amurense (Amur corktree)",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"yes",
+   "arbor_note":361
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314161,40.02611 ]
+   },
+   "properties": {
+   "donation_id":153,
+   "img_src":"LC_153.png",
+   "item":"Weeping Hemlock (Tsuga canadensis 'Pendula')",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"yes",
+   "arbor_note":344
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.314133,40.024612 ]
+   },
+   "properties": {
+   "donation_id":154,
+   "img_src":"LC_154.png",
+   "item":"Ginkgo biloba (Maidenhair tree)",
+   "donor_id":"",
+   "dedi_id":"",
+   "inscription":"",
+   "icon":"tree",
+   "state_champ":"yes",
+   "arbor_note":665
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3156,40.02937 ]
+   },
+   "properties": {
+   "donation_id":155,
+   "img_src":"LC_155.png",
+   "item":"Paperbark Maple (Acer griseum)",
+   "donor_id":"",
+   "dedi_id":"Steve Z. Levine",
+   "inscription":"Professor of History of Art and Leslie Clark Professor in the Humanities",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":1284
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.315806,40.027034 ]
+   },
+   "properties": {
+   "donation_id":156,
+   "img_src":"LC_156.png",
+   "item":"Nancy Vickers Garden",
+   "donor_id":"",
+   "dedi_id":"Nancy Vickers",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no ",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3125,40.0261 ]
+   },
+   "properties": {
+   "donation_id":157,
+   "img_src":"LC_157.png",
+   "item":"Bench",
+   "donor_id":"Alumnae Relations and Development Colleagues",
+   "dedi_id":"Linda ten Boom",
+   "inscription":"In loving memory of Linda ten Boom <br> Our dear friend and colleague for 20 years of loyalth and dedication to Bryn Mawr College",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":158,
+   "img_src":"",
+   "item":"Moveable Chair",
+   "donor_id":"Friends of Ellis Avery '93",
+   "dedi_id":"Ellis Avery '93",
+   "inscription":"Leaves gather, embrace the winter ground. Each year lays down fresh kisses.",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":159,
+   "img_src":"",
+   "item":"Moveable Chair",
+   "donor_id":"Friends of Ellis Avery '93",
+   "dedi_id":"Ellis Avery '93",
+   "inscription":"Ellis Avery '93: Poet, Author, Scientist and Dear Friend. <br>We will always hold you in our hearts.",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":160,
+   "img_src":"",
+   "item":"Cloisters Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"Mabel Lang, PhD '43",
+   "inscription":"Mabel Lang PhD 1934 <br> Helen Taft Manning Award 1988",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":161,
+   "img_src":"",
+   "item":"Wyndham Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"Ellen Fernon Reisner, MA '33",
+   "inscription":"Ellen Fernon Reisner, MA '33 <br> Helen Taft Manning Award 1988",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":162,
+   "img_src":"",
+   "item":"Tree",
+   "donor_id":"Manning Award",
+   "dedi_id":"Susan Savage Speers '51",
+   "inscription":"Susan Savage Speers '51 <br> Helen Taft Manning Award 1999",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":163,
+   "img_src":"",
+   "item":"Tree",
+   "donor_id":"Manning Award",
+   "dedi_id":"Elizabeth G. Vermey '58",
+   "inscription":"Elizabeth G. Vermey '58 <br> Helen Taft Manning Award 1999",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 0,0 ]
+   },
+   "properties": {
+   "donation_id":164,
+   "img_src":"",
+   "item":"Tree",
+   "donor_id":"Manning Award",
+   "dedi_id":"Margaret H. Healy, PhD '69",
+   "inscription":"Margaret H. Healy, PhD '69 <br> Helen Taft Manning Award 1997",
+   "icon":"tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3155185,40.0296644 ]
+   },
+   "properties": {
+   "donation_id":165,
+   "img_src":"LC_165.png",
+   "item":"Tree",
+   "donor_id":"",
+   "dedi_id":"Emma Isabel Allen （1997-2020）",
+   "inscription":"Emma Isabel Allen <br> 1997-2020 <br> Don’t Panic",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3152889,40.0293533 ]
+   },
+   "properties": {
+   "donation_id":166,
+   "img_src":"LC_166.png",
+   "item":"Coral Bark Japanese Maple (Acer palladium ‘Sango-Kaku’",
+   "donor_id":"Manning Award",
+   "dedi_id":"Maria Luisa Crawford ‘60",
+   "inscription":"The Helen Taft Manning Award 2006 <br> given to <br> Maria Luisa Crawford '60 <br> in recognition of her outstanding service to Bryn Mawr College <br> Coral Bark Japanese Maple <br> Acer palmatum 'Sango-Kaku' ",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3150904,40.0295163 ]
+   },
+   "properties": {
+   "donation_id":167,
+   "img_src":"LC_167.png",
+   "item":"Tree",
+   "donor_id":"",
+   "dedi_id":"Frank B. Mallory, Omaha,",
+   "inscription":"In memory of <br> Frank B. Mallory b. Omaha, Nebraska, March 17, 1933 <br> d. Bryn Mawr, Pennsylvania, November 7, 2017 <br> Distinguished chemist and teacher, exemplary College citizen and talented musician <br> W. Alton Jones Professor of Chemistry <br> Bryn Mawr College <br> 1957 - 2011",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3149747,40.0294316 ]
+   },
+   "properties": {
+   "donation_id":168,
+   "img_src":"LC_168.png",
+   "item":"Cercis Canadensis (Eastern Redbud)",
+   "donor_id":"Board of Trustees ",
+   "dedi_id":"Susan Jin Davis '86",
+   "inscription":"Susan Jin Davis '86 <br> Bryn Mawr College Board of Trustees <br> Trustee 2012-2022 <br> In recognition of her leadership and service to the College <br> 2022 <br> Cercis canadensis <br> Eastern Redbud",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3149191,40.0292832 ]
+   },
+   "properties": {
+   "donation_id":169,
+   "img_src":"LC_169.png",
+   "item":"Cercis Canadensis (Eastern Redbud)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Sandy Baum '74",
+   "inscription":"Sandy Baum '72 <br> Bryn Mawr College Board of Trustees <br> Trustee 2012 - 2022 <br> In recognition of her leadership and service to the College 2022 <br> Cercis cannadensis Eastern Redbud",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3145409,40.0295150 ]
+   },
+   "properties": {
+   "donation_id":170,
+   "img_src":"LC_170.png",
+   "item":"Magnolia granaflora (Southern magnolia)",
+   "donor_id":"",
+   "dedi_id":"Peter D. Brodfuehrer",
+   "inscription":"Dedicated in honor of <br> Peter D. Brodfuehrer <br> Elemore A. Bliss Professor of Biology <br> 1990-2020 <br> Magnolia granaflora <br> Southern magnolia",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3136108,40.0284326 ]
+   },
+   "properties": {
+   "donation_id":171,
+   "img_src":"LC_171.png",
+   "item":"Tree",
+   "donor_id":"",
+   "dedi_id":"Azade Seyhan",
+   "inscription":"Dedicated in honor of Azade Seyhan <br> Professor of <br> German & Comparative Literature of Fairbank Professor in the Humanities <br> 1985-2019 <br> May 2019",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3135461,40.0283423 ]
+   },
+   "properties": {
+   "donation_id":172,
+   "img_src":"LC_172.png",
+   "item":"Tree",
+   "donor_id":"",
+   "dedi_id":"Marc Howard Ross",
+   "inscription":"Dedicated in honor of <br> Marc Howard Ross <br> Member of the faculty of <br> Political Science 1968-2014 <br> May 2014",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3134425,40.0282463 ]
+   },
+   "properties": {
+   "donation_id":173,
+   "img_src":"LC_173.png",
+   "item":"Ulmus Frontier (Frontier Elm)",
+   "donor_id":"",
+   "dedi_id":"Class of 1970",
+   "inscription":"Ulmus Frontier <br> Frontier Elm <br> Class of 1970",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3133691,40.0281413 ]
+   },
+   "properties": {
+   "donation_id":174,
+   "img_src":"LC_174.png",
+   "item":"Tree",
+   "donor_id":"",
+   "dedi_id":"Sharon Ullman",
+   "inscription":"Dedicated in honor of <br> Sharon Ullman <br> Member of the faculty of <br> History1992-2024 <br> May 2024",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3133087,40.0280727 ]
+   },
+   "properties": {
+   "donation_id":175,
+   "img_src":"LC_175.png",
+   "item":"Tree",
+   "donor_id":"",
+   "dedi_id":"Michael Krausz",
+   "inscription":"Dedicated in honor of <br> Michael Krausz <br> Department of Philosophy <br> 1970-2015",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3132678,40.0279680 ]
+   },
+   "properties": {
+   "donation_id":176,
+   "img_src":"LC_176.png",
+   "item":"Ulmus Frontier (Frontier Elm)",
+   "donor_id":"",
+   "dedi_id":"Class of 1962",
+   "inscription":"Ulmus Frontier <br> Frontier Elm <br> For our 50th reunion <br> Class of 1962 <br> From Barbara Paul Robinson",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3129956,40.0270912 ]
+   },
+   "properties": {
+   "donation_id":177,
+   "img_src":"LC_177.png",
+   "item":"Tree",
+   "donor_id":"President's office",
+   "dedi_id":"Ruth H. Lindeborg",
+   "inscription":"Ruth H.Lindeborg '80 <br> President's Office <br> In recognition for ver 25 years <br> of service to the College <br> 2023",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3127988,40.0268401 ]
+   },
+   "properties": {
+   "donation_id":178,
+   "img_src":"LC_178.png",
+   "item":"Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"Raymond Albert",
+   "inscription":"Raymond Albert <br> Professor of Social Work, Equal Opportunity <br> Officer, and Staff Issues Liaison <br> Helen Taft Manning Award 2018 <br> Recognizing his skills in conflict resolution <br> his commitment to true listening, and his <br> advocacy for an inclusive understanding of <br> excellence",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3127505,40.0259713 ]
+   },
+   "properties": {
+   "donation_id":179,
+   "img_src":"LC_179.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Margaret Sarkela  '74",
+   "inscription":"Margaret Sarkela '74 <br> Bryn Mawr College Board of Trustees <br> Trustee 2013-2023 <br> In recognition of her leadership and service <br> to the College <br> 2023 <br> Cornus Florida <br> Flowering Dogwood",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3127173,40.0259267 ]
+   },
+   "properties": {
+   "donation_id":180,
+   "img_src":"LC_180.png",
+   "item":"Tree",
+   "donor_id":"",
+   "dedi_id":"Jane E. Epstein",
+   "inscription":"Jane E. Epstein <br> In recognition of 21 years of dedicated <br> support to the Board of Trustees",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3130536,40.0253269 ]
+   },
+   "properties": {
+   "donation_id":181,
+   "img_src":"LC_181.png",
+   "item":"Bench",
+   "donor_id":"",
+   "dedi_id":"Marguerite del Carmen Suarez-Murias '48",
+   "inscription":"In memory of Marguerite del Carmen Suarez-Murias, Class of 1943",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3106674,40.0256871 ]
+   },
+   "properties": {
+   "donation_id":182,
+   "img_src":"LC_182.png",
+   "item":"Tree",
+   "donor_id":"",
+   "dedi_id":"Cynthia Secor '60",
+   "inscription":"In Honor Of <br> Cynthia Secor '60 <br> Director, Bryn Mawr/ HERS Summer Institute <br> 1976 - 2005 <br> and her mother Bernice Secor",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3169150,40.0266111 ]
+   },
+   "properties": {
+   "donation_id":183,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Edith Aviles '88",
+   "inscription":"Edith Aviles '88 <br> Bryn Mawr College Board of Trustees <br> Trustee 2010-2018 <br> Special Representative 2018-2021 <br> In Recognition of her leadership, financial acumen, and <br> service to the College <br> 2021 <br> Cornus Florida <br> Flowering Dogwood",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3168204,40.0265842 ]
+   },
+   "properties": {
+   "donation_id":184,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Eileen P.Kavanagh ‘75",
+   "inscription":"Eileen P. Kavanagh '75 <br> Bryn Mawr College Board of Trustees <br> President of the BMC Alumnae Association 2011-2016 <br> Trustee 2011-2021 <br> In recognition of her leadership and dedicated service <br> to the College <br> 2021 <br> Cornus Florida <br> Floweirng Dogwood",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3168372,40.0266265 ]
+   },
+   "properties": {
+   "donation_id":185,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Denise Lee Hurley ‘82",
+   "inscription":"Denise Lee Hurley '82 <br> Bryn Mawr College Board of Trustees <br> Trustee 2001- 2022 <br> Challenging Women Campaign Vice Chair 2001-2007 <br> Defy Expectiation Campaign Chair 2011-2021 <br> In recognition of her leadership, service, and <br> dedication to the college, <br> 2022 <br> Cornus Florida <br> Flowering Dogwood.",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3167849,40.0266142 ]
+   },
+   "properties": {
+   "donation_id":186,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Susan L. Maclaurin ‘84",
+   "inscription":"Susan L. Maclaurin '84 <br> Bryn Mawr College Board of Trustees <br> Ex officio Trustee and President of the BMC Alumnae <br> Association 1999-2002 <br> Trustee 2003- 2021 <br> In recognition of her leadership and dedicated <br> service to the College <br> 2021 <br> Cornus Florida <br> Floweirng Dogwood",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3168130,40.0266396 ]
+   },
+   "properties": {
+   "donation_id":187,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Catherine Allegra ‘84",
+   "inscription":"Catherine Allegra '84 <br> Bryn Mawr College Board of Trustees <br> Trustee 1998 - 2010, and 2015-2020 <br> Special Representative to the Board 2010 - 2012 <br> Challenging Women Campaign Vice Chair 2001-2007 <br> In recognition of her leadership, service <br> and dedication to the College <br> 2021 <br> Cornus Florida <br> Flowering Dogwood",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.1368137,40.0267418 ]
+   },
+   "properties": {
+   "donation_id":188,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Cheryl R. Holland ‘80",
+   "inscription":"Cheryl R. Holland '80 <br> Bryn Mawr College Board of Trustees <br> Trustee 1994-2006 and 2012 - 2020 <br> Special Representative to the Board 2006 - 2012 <br> In recognition of her leadership financial acumen, <br> and dedication to the College <br> 2021 <br> Cornus Florida <br> Flowering Dogwood",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3167443,40.0267798 ]
+   },
+   "properties": {
+   "donation_id":189,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Justine Jentes ‘88",
+   "inscription":"Justine Jentes '88 <br> Bryn Mawr College Board of Trustees <br> Trustee 2007-2021 <br> In recognition of her leadership and dedicated <br> services to the College <br> 2021 <br> Cornus Florida <br> Flowering Dogwood",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3167198,40.0267197 ]
+   },
+   "properties": {
+   "donation_id":190,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Ann Logan ‘76",
+   "inscription":"Ann Logan '76 <br> Bryn Mawr College Board of Trustees <br> Trustee 2009-2021 <br> Board Chair 2015-2021 <br> In recognition of her leadership, ability to bring <br> people together, and dedication to Bryn Mawr <br> 2021 <br> Cornus Florida <br> Flowering Dogwood.",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3166675,40.0267112 ]
+   },
+   "properties": {
+   "donation_id":191,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Janet Steinmayer ‘77",
+   "inscription":"Janet Steinmayer '77 <br> Bryn Mawr College Board of Trustees <br> Trustee 2004 - 2024 <br> In recognition of her leadership and service to the College, <br> 2024 <br> Cornus Florida L. <br> Flowering Dogwood.",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.3166890,40.0267585 ]
+   },
+   "properties": {
+   "donation_id":192,
+   "img_src":"LC_165.png",
+   "item":"Cornus Florida (Flowering Dogwood)",
+   "donor_id":"Board of Trustees",
+   "dedi_id":"Stephanie Brown ‘75",
+   "inscription":"Stephanie Brown '75 <br> Bryn Mawr Board of Trustees <br> Trustee 2014 - 2024 <br> in recognition of her leadership and service <br> to the College <br> 2024 <br> Cornus Florida L. Flowering Dogwood.",
+   "icon":"Tree",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  { }
+   },
+   "properties": {
+   "donation_id":192,
+   "img_src":"LC_165.png",
+   "item":"Bench",
+   "donor_id":"Manning Award",
+   "dedi_id":"Rod Matthews ",
+   "inscription":"",
+   "icon":"object",
+   "state_champ":"no",
+   "arbor_note":null
+   }
+ }
 ]
 }
