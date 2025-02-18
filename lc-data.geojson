@@ -977,7 +977,7 @@
    "type": "Feature",
    "geometry": {
       "type": "Point",
-      "coordinates":  [ -75.314915,40.30197 ]
+      "coordinates":  [ -75.314915,40.030197 ]
    },
    "properties": {
    "donation_id":54,
@@ -1283,7 +1283,7 @@
    "type": "Feature",
    "geometry": {
       "type": "Point",
-      "coordinates":  [ -75.312763,40.26948 ]
+      "coordinates":  [ -75.312763,40.026948 ]
    },
    "properties": {
    "donation_id":108,
