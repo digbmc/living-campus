@@ -1,4 +1,4 @@
-donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,arbor_note
+donation_id,img_src,item,donor_id,dedi_id,inscription,latitude,longitude,icon,state_champ,arbor_note
 0,,Wildflower Meadow,Class of 1966,Mary E. Daubenspeck '66,,40.025603,-75.312917,object,no,
 1,LC_001.png,Stone Gates,,,"Gates given in honor of Anne Leigh Hobson Broughton '30, MA '36<br>Director of Admissions 1943-1965",40.024166,-75.313455,object,no,
 2,,Shillingford Field,BMC,,"Shillingford Field <br> Named in honor of Jenepher P. Shillingford for her contributions as field hockey coach and director of athletics and physical education for more than 20 years <br> October 25, 1998",40.028535,-75.315949,object,no,
@@ -36,7 +36,7 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 34,LC_034.png,Moveable Bench,Class of 1960,,Presented in May 2010 by the Class of 1960 on the occasion of our 50th reunion <br> In memory of our classmates who have died since we last met under this Arbor in 2005,40.024892,-75.313861,object,no,1262
 35,LC_035.png,Moveable Bench,Class of 1960,,Presented by the Class of 1960 on the occasion of our 40th Reunion,40.024834,-75.313823,object,no,1259
 36,LC_036.png,Moveable Bench,Manning Award,,The Helen Taft Manning Award 2000 given to Barbara Janney Trimble '60 in recognition of her outstanding service to Bryn Mawr College,40.024824,-75.31388,object,no,1261
-37,LC_037.png,Moveable Bench,Class of 1961, 40th Reunion,In Remembrance of Departed Classmates and in Celebration of Their Lives,40.024427,-75.313537,object,no,1265
+37,LC_037.png,Moveable Bench,Class of 1961,40th Reunion,In Remembrance of Departed Classmates and in Celebration of Their Lives,40.024427,-75.313537,object,no,1265
 38,LC_038.png,Moveable Bench,Manning Award,,Barbara Bauman Morrison '62 <br> Helen Taft Manning Award 2015,40.02609,-75.314139,object,no,1248
 39,LC_039.png,Moveable Bench,,,In honor of Filiz Eda Burhan '72 <br> Respected scholar and beloved teacher,40.027113,-75.315109,object,no,1117
 40,LC_040.png,Moveable Bench,Class of 1977,25th Reunion,Remembering deceased classmates and missing you at our 25th Reunion,40.024344,-75.313532,object,no,1266
@@ -53,7 +53,7 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 51,LC_051.png,Bench,Manning Award,,Betsy Havens Watkins '61 <br> Helen Taft Manning Award 1997,40.02634,-75.312266,object,no,
 52,,Bench,Carolyn Ehrlich Goldstein '60,,,0,0,object,no,
 53,LC_053.png,Bench,Shirley Noble,,,40.027152,-75.316168,object,no,1293
-54,LC_054.png,Bench,,,"In memory of Ethel Walker Whitestone, Science Librarian",40.30197,-75.314915,object,no,1282
+54,LC_054.png,Bench,,,"In memory of Ethel Walker Whitestone, Science Librarian",40.030197,-75.314915,object,no,1282
 55,LC_055.png,Arbor,Class of 1960,,,40.024854,-75.31387,object,no,
 56,LC_056.png,4 Permanent Benches and Garden,,Barbara Thacher '40,Barbara Auchincloss Thacher Memorial Path,40.025519,-75.312201,object,no,1298
 57,LC_057.png,3 Stone Benches,,,"Dedicated to Max Weiss, one who revered knowledge, nature, history, and those who appreciate their significance",40.027356,-75.31419,object,no,1244
@@ -70,7 +70,7 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 105,,White Oak (Quercus alba),Class of 1960,Class of 1960,,0,0,tree,no,
 106,LC_106.png,Frontier Elm (Ulmus 'Frontier'),Barbara Paul Robinson '62,Class of 1962 50th Reunion,,40.028026,-75.313241,tree,no,
 107,,Weeping Hemlock (Tsuga canadensis),Class of 1966,Class of 1966,,0,0,tree,no,
-108,LC_108.png,Star Magnolia (Magnolia stellata),Class of 1968,Class of 1968,,40.26948,-75.312763,tree,no,142
+108,LC_108.png,Star Magnolia (Magnolia stellata),Class of 1968,Class of 1968,,40.026948,-75.312763,tree,no,142
 109,LC_109.png,White Oak (Quercus alba),Class of 1954,Elsie Kemp Schmitz '54,,40.027676,-75.315472,tree,no,391
 110,LC_110.png,Japanese Snowbell (Styrax japonica),Class of 1974,Class of 1974,,40.02596,-75.31457,tree,no,
 111,,Spruce (Picea),,Ernest J. Gallo,In memory of Ernest J. Gallo <br> 1999,0,0,tree,no,
@@ -79,8 +79,8 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 114,,Pin Oak (Quercus palustris),Class of 1987,,"Gift of the Class of 1987 <br> ""AKOUE""",40.026913,-75.312779,tree,no,
 115,,White Oak (Quercus alba),Class of 1960,Class of 1960,,0,0,tree,no,
 116,LC_116.png,Callery Pear (Pyrus calleryane),Class of 1934,Class of 1934,"Given by Frances F. Jones, President of the Class of 1934",40.025496,-75.312488,tree,no,629
-117,LC_117.png,Weeping Cherry (Prunus subhirtella pendula),Class of 1964,Class of 1964, Celebrating the 50th Reunion ,40.026641,-75.313667,tree,no,310
-118,LC_118.png,Weeping Cherry (Prunus subhirtella pendula),Manning Award,Susan Kelly Barnes '76," Bryn Mawr College Board of Trustees 1996-2016 <br> in recognition of her leadership, strategic vision, and financial acumen",40.026719,-75.313615,tree,no,
+117,LC_117.png,Weeping Cherry (Prunus subhirtella pendula),Class of 1964,Class of 1964,Celebrating the 50th Reunion,40.026641,-75.313667,tree,no,310
+118,LC_118.png,Weeping Cherry (Prunus subhirtella pendula),Manning Award,Susan Kelly Barnes '76,"Bryn Mawr College Board of Trustees 1996-2016 <br> in recognition of her leadership, strategic vision, and financial acumen",40.026719,-75.313615,tree,no,
 119,LC_119.png,Okame Cherry (Prunus 'Okame'),Class of 1956,Class of 1956,,40.02774,-75.31311,tree,no,326
 120,LC_120.png,Bigleaf Magnolia (Magnolia macrophylia),Class of 1900,Class of 1900,,40.027085,-75.312806,tree,no,1271
 121,LC_121.png,Frontier Elm (Ulmus 'Frontier'),Class of 1970,Class of 1970,,40.028297,-75.313413,tree,no,93
@@ -125,3 +125,32 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 162,,Tree,Manning Award,Susan Savage Speers '51,Susan Savage Speers '51 <br> Helen Taft Manning Award 1999,0,0,tree,no,
 163,,Tree,Manning Award,Elizabeth G. Vermey '58,Elizabeth G. Vermey '58 <br> Helen Taft Manning Award 1999,0,0,tree,no,
 164,,Tree,Manning Award,"Margaret H. Healy, PhD '69","Margaret H. Healy, PhD '69 <br> Helen Taft Manning Award 1997",0,0,tree,no,
+165,LC_165.png,Tree,,Emma Isabel Allen ï¼ˆ1997-2020ï¼‰,Emma Isabel Allen <br> 1997-2020 <br> Donâ€™t Panic,40.0296644,-75.3155185,tree,no,
+166,LC_166.png,Coral Bark Japanese Maple (Acer palladium 'Sango-Kakuâ€™,Manning Award,Maria Luisa Crawford '60,The Helen Taft Manning Award 2006 <br> given to <br> Maria Luisa Crawford '60 <br> in recognition of her outstanding service to Bryn Mawr College <br> Coral Bark Japanese Maple <br> Acer palmatum 'Sango-Kaku',40.0293533,-75.3152889,tree,no,
+167,LC_167.png,Tree,,"Frank B. Mallory, Omaha,","In memory of <br> Frank B. Mallory b. Omaha, Nebraska, March 17, 1933 <br> d. Bryn Mawr, Pennsylvania, November 7, 2017 <br> Distinguished chemist and teacher, exemplary College citizen and talented musician <br> W. Alton Jones Professor of Chemistry <br> Bryn Mawr College <br> 1957 - 2011",40.0295163,-75.3150904,tree,no,
+168,LC_168.png,Cercis Canadensis (Eastern Redbud),Board of Trustees ,Susan Jin Davis '86,Susan Jin Davis '86 <br> Bryn Mawr College Board of Trustees <br> Trustee 2012-2022 <br> In recognition of her leadership and service to the College <br> 2022 <br> Cercis canadensis <br> Eastern Redbud,40.0294316,-75.3149747,tree,no,
+169,LC_169.png,Cercis Canadensis (Eastern Redbud),Board of Trustees,Sandy Baum '74,Sandy Baum '72 <br> Bryn Mawr College Board of Trustees <br> Trustee 2012 - 2022 <br> In recognition of her leadership and service to the College 2022 <br> Cercis cannadensis Eastern Redbud,40.0292832,-75.3149191,tree,no,
+170,LC_170.png,Magnolia granaflora (Southern magnolia),,Peter D. Brodfuehrer,Dedicated in honor of <br> Peter D. Brodfuehrer <br> Elemore A. Bliss Professor of Biology <br> 1990-2020 <br> Magnolia granaflora <br> Southern magnolia,40.029515,-75.3145409,tree,no,
+171,LC_171.png,Tree,,Azade Seyhan,Dedicated in honor of Azade Seyhan <br> Professor of <br> German & Comparative Literature of Fairbank Professor in the Humanities <br> 1985-2019 <br> May 2019,40.0284326,-75.3136108,tree,no,
+172,LC_172.png,Tree,,Marc Howard Ross,Dedicated in honor of <br> Marc Howard Ross <br> Member of the faculty of <br> Political Science 1968-2014 <br> May 2014,40.0283423,-75.3135461,tree,no,
+173,LC_173.png,Ulmus Frontier (Frontier Elm),,Class of 1970,Ulmus Frontier <br> Frontier Elm <br> Class of 1970,40.0282463,-75.3134425,tree,no,
+174,LC_174.png,Tree,,Sharon Ullman,Dedicated in honor of <br> Sharon Ullman <br> Member of the faculty of <br> History1992-2024 <br> May 2024,40.0281413,-75.3133691,tree,no,
+175,LC_175.png,Tree,,Michael Krausz,Dedicated in honor of <br> Michael Krausz <br> Department of Philosophy <br> 1970-2015,40.0280727,-75.3133087,tree,no,
+176,LC_176.png,Ulmus Frontier (Frontier Elm),,Class of 1962,Ulmus Frontier <br> Frontier Elm <br> For our 50th reunion <br> Class of 1962 <br> From Barbara Paul Robinson,40.027968,-75.3132678,tree,no,
+177,LC_177.png,Tree,President's office,Ruth H. Lindeborg,Ruth H.Lindeborg '80 <br> President's Office <br> In recognition for ver 25 years <br> of service to the College <br> 2023,40.0270912,-75.3129956,tree,no,
+178,LC_178.png,Bench,Manning Award,Raymond Albert,"Raymond Albert <br> Professor of Social Work, Equal Opportunity <br> Officer, and Staff Issues Liaison <br> Helen Taft Manning Award 2018 <br> Recognizing his skills in conflict resolution <br> his commitment to true listening, and his <br> advocacy for an inclusive understanding of <br> excellence",40.0268401,-75.3127988,object,no,
+179,LC_179.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Margaret Sarkela  '74,Margaret Sarkela '74 <br> Bryn Mawr College Board of Trustees <br> Trustee 2013-2023 <br> In recognition of her leadership and service <br> to the College <br> 2023 <br> Cornus Florida <br> Flowering Dogwood,40.0259713,-75.3127505,tree,no,
+180,LC_180.png,Tree,,Jane E. Epstein,Jane E. Epstein <br> In recognition of 21 years of dedicated <br> support to the Board of Trustees,40.0259267,-75.3127173,tree,no,
+181,LC_181.png,Bench,,Marguerite del Carmen Suarez-Murias '48,"In memory of Marguerite del Carmen Suarez-Murias, Class of 1943",40.0253269,-75.3130536,object,no,
+182,LC_182.png,Tree,,Cynthia Secor '60,"In Honor Of <br> Cynthia Secor '60 <br> Director, Bryn Mawr/ HERS Summer Institute <br> 1976 - 2005 <br> and her mother Bernice Secor",40.0256871,-75.3106674,tree,no,
+183,LC_183.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Edith Aviles '88,"Edith Aviles '88 <br> Bryn Mawr College Board of Trustees <br> Trustee 2010-2018 <br> Special Representative 2018-2021 <br> In Recognition of her leadership, financial acumen, and <br> service to the College <br> 2021 <br> Cornus Florida <br> Flowering Dogwood",40.0266111,-75.316915,tree,no,
+184,LC_184.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Eileen P.Kavanagh '75,Eileen P. Kavanagh '75 <br> Bryn Mawr College Board of Trustees <br> President of the BMC Alumnae Association 2011-2016 <br> Trustee 2011-2021 <br> In recognition of her leadership and dedicated service <br> to the College <br> 2021 <br> Cornus Florida <br> Floweirng Dogwood,40.0265842,-75.3168204,tree,no,
+185,LC_185.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Denise Lee Hurley '82,"Denise Lee Hurley '82 <br> Bryn Mawr College Board of Trustees <br> Trustee 2001- 2022 <br> Challenging Women Campaign Vice Chair 2001-2007 <br> Defy Expectiation Campaign Chair 2011-2021 <br> In recognition of her leadership, service, and <br> dedication to the college, <br> 2022 <br> Cornus Florida <br> Flowering Dogwood.",40.0266265,-75.3168372,tree,no,
+186,LC_186.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Susan L. Maclaurin '84,Susan L. Maclaurin '84 <br> Bryn Mawr College Board of Trustees <br> Ex officio Trustee and President of the BMC Alumnae <br> Association 1999-2002 <br> Trustee 2003- 2021 <br> In recognition of her leadership and dedicated <br> service to the College <br> 2021 <br> Cornus Florida <br> Floweirng Dogwood,40.0266142,-75.3167849,tree,no,
+187,LC_187.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Catherine Allegra '84,"Catherine Allegra '84 <br> Bryn Mawr College Board of Trustees <br> Trustee 1998 - 2010, and 2015-2020 <br> Special Representative to the Board 2010 - 2012 <br> Challenging Women Campaign Vice Chair 2001-2007 <br> In recognition of her leadership, service <br> and dedication to the College <br> 2021 <br> Cornus Florida <br> Flowering Dogwood",40.0266396,-75.316813,tree,no,
+188,LC_188.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Cheryl R. Holland '80,"Cheryl R. Holland '80 <br> Bryn Mawr College Board of Trustees <br> Trustee 1994-2006 and 2012 - 2020 <br> Special Representative to the Board 2006 - 2012 <br> In recognition of her leadership financial acumen, <br> and dedication to the College <br> 2021 <br> Cornus Florida <br> Flowering Dogwood",40.0267418,-75.1368137,tree,no,
+189,LC_189.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Justine Jentes '88,Justine Jentes '88 <br> Bryn Mawr College Board of Trustees <br> Trustee 2007-2021 <br> In recognition of her leadership and dedicated <br> services to the College <br> 2021 <br> Cornus Florida <br> Flowering Dogwood,40.0267798,-75.3167443,tree,no,
+190,LC_190.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Ann Logan '76,"Ann Logan '76 <br> Bryn Mawr College Board of Trustees <br> Trustee 2009-2021 <br> Board Chair 2015-2021 <br> In recognition of her leadership, ability to bring <br> people together, and dedication to Bryn Mawr <br> 2021 <br> Cornus Florida <br> Flowering Dogwood.",40.0267197,-75.3167198,tree,no,
+191,LC_191.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Janet Steinmayer '77,"Janet Steinmayer '77 <br> Bryn Mawr College Board of Trustees <br> Trustee 2004 - 2024 <br> In recognition of her leadership and service to the College, <br> 2024 <br> Cornus Florida L. <br> Flowering Dogwood.",40.0267112,-75.3166675,tree,no,
+192,LC_192.png,Cornus Florida (Flowering Dogwood),Board of Trustees,Stephanie Brown '75,Stephanie Brown '75 <br> Bryn Mawr Board of Trustees <br> Trustee 2014 - 2024 <br> in recognition of her leadership and service <br> to the College <br> 2024 <br> Cornus Florida L. Flowering Dogwood.,40.0267585,-75.316689,tree,no,
+193,,Bench,Manning Award,Rod Matthews ,,0,0,object,no,
