@@ -6,4 +6,4 @@ GitHub repository: https://github.com/digbmc/living-campus
 
 See wiki for documentation: https://github.com/digbmc/living-campus/wiki
 
-Site and repo updated 2024.09.16; data not since 2020.
+Site, repo, and data updated 2025.09.30.

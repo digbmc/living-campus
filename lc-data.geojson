@@ -2687,7 +2687,7 @@
    "type": "Feature",
    "geometry": {
       "type": "Point",
-      "coordinates":  [ -75.1368137,40.0267418 ]
+      "coordinates":  [ -75.3168137,40.0267418 ]
    },
    "properties": {
    "donation_id":188,
