@@ -2777,11 +2777,11 @@
    "type": "Feature",
    "geometry": {
       "type": "Point",
-      "coordinates":  { }
+      "coordinates":  [0,0]
    },
    "properties": {
-   "donation_id":192,
-   "img_src":"LC_165.png",
+   "donation_id":193,
+   "img_src":"",
    "item":"Bench",
    "donor_id":"Manning Award",
    "dedi_id":"Rod Matthews ",
